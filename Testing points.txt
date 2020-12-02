@@ -36,7 +36,7 @@ Test Development - test plan / Test script /test data
 --------------------------------------
 
 AGILE : 
-
+=========
 In the Agile model, both development and testing activities are concurrent, unlike the Waterfall model.
 iteration method
 development and testing done side by side
@@ -82,7 +82,7 @@ Easy to manage.
 
 Gives flexibility to developers.
 
-**********The disadvantages of the Agile Model are as follows −
+**********The disadvantages of the Agile Model are as follows ======================
 
 Not suitable for handling complex dependencies.
 
@@ -100,7 +100,7 @@ Transfer of technology to new team members may be quite challenging due to lack 
 
 
 
--------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------
 
 *******Following are the Agile Manifesto principles −
 
